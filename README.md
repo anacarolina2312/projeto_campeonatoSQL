@@ -33,12 +33,11 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 
 [Grupos.xlsx](https://github.com/user-attachments/files/17549939/Grupos.xlsx)
 
-# Integrantes do Grupo
-1) thaina
-2) ana carolina
-3) thaynara
-4) evelly
-5) 
+# Integrantes do Grupo) 
+1) ana carolina
+2) thaynara
+3) evelly
+4) thaina
    
 
 # Modelo Lógico
