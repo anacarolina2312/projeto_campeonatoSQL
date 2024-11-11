@@ -19,6 +19,9 @@
 * Cada turma terá os 1ºs, 2ºs e 3ºs lugares ganhadores, com direito a premiação (medalha) para todos os integrantes dos grupos.
 * Os 1ºs lugares de cada turma, vão para a etapa seguinte.
 
+
+[trabalho banco de dadoa 2rdc.zip](https://github.com/user-attachments/files/17708201/trabalho.banco.de.dadoa.2rdc.zip)
+
 ### Fase 2: Competição interclasse
 * Nesta etapa, irão participar apenas 4 grupos, ou seja, os 1ºs colocados de cada turma da Fase 1 da competição.
 * Na Fase 2 da competição será considerada a seguinte etapa do trabalho: ETAPA 4 - Consulta ao Banco de Dados.
