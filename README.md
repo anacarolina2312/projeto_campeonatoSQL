@@ -52,7 +52,8 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 * Você deve anexar o arquivo do seu projeto de banco de dados (create.sql) neste GitHub a cada atualização contendo os CREATE.
 
 
-[trabalho banco de dadoa 2rdc.zip](https://github.com/user-attachments/files/17708217/trabalho.banco.de.dadoa.2rdc.zip)
+
+[trabalho banco de dados 2rdc.zip](https://github.com/user-attachments/files/17806355/trabalho.banco.de.dados.2rdc.zip)
 
 # ETAPA 2 - Inserção de Dados (ATÉ 22/11/2024)
 * Insira no mínimo 20 linhas de dados em cada tabela (INSERT).
