@@ -35,9 +35,8 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 
 # Integrantes do Grupo) 
 1) ana carolina
-2) thaynara
-3) evelly
-4) thaina
+2) evelly
+3) thaina
    
 
 # Modelo Lógico
