@@ -35,7 +35,7 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 
 # Integrantes do Grupo) 
 1) ana carolina
-2) evelly
+2) evellyn
 3) thaina
    
 
